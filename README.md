@@ -1,37 +1,9 @@
-# 小程序支付PHP版本
+以前项目内的一个支付接口发出来,省的以后乱找了
 
-#### 介绍
-PHP版本的微信小程序支付，已经完全集成微信支付大部分接口。
+1.上手即用,修改里面的配置信息即可
 
-#### 软件架构
-软件架构说明
+2.注意:里面有消息通知的,注意配置消息模版
 
+3.还有支付证书文件什么的都要用你自己的
 
-#### 安装教程
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 使用说明
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 参与贡献
-
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-
-#### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+4.功能:退款功能,下单功能,回调接口,模版消息功能,还有一个WX官方的SDK
